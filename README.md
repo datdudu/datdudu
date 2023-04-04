@@ -1,4 +1,4 @@
-###Hello 👋! My name is Carlos Eduardo Carvalho Cardoso and welcome to my git-hub
+###Hello 👋! My name is Carlos Eduardo Carvalho Cardoso and welcome to my GitHub
 
 - ⚡ Fun fact: 
 - 🔭 I’m currently working on FitBank, developing for a Financial System, doing the maintence and creation of new features, for exemple
@@ -7,7 +7,7 @@
   - Translation of the system admin
   - Creating DataBase Structures
 
-- 🌱 I’m currently learning more about .NET Framework, while doing a Technical Course, learning more about fullstack development using NodeJS and REACT (Soon there will be some repositories with some projects done by myself)
+- 🌱 I’m currently learning more about .NET Framework, while doing a Bachelor in Computer Engineering on IFCE and a Technical Course, learning more about fullstack development using NodeJS and REACT (Soon there will be some repositories with some projects done by myself)
 
 - 👯 I’m looking to challenge myself learning new system, and working on projects that will increase my professional expertise
 
