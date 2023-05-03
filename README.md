@@ -1,7 +1,7 @@
-###Hello 👋! My name is Carlos Eduardo Carvalho Cardoso and welcome to my GitHub
+### Hello 👋! My name is Carlos Eduardo Carvalho Cardoso and welcome to my GitHub
 
-- ⚡ Fun fact: 
-- 🔭 I’m currently working on FitBank, developing for a Financial System, doing the maintence and creation of new features, for exemple
+  - ⚡ Fun fact: 
+  - 🔭 I’m currently working on FitBank, developing for a Financial System, doing the maintence and creation of new features, for exemple
   - API's, Microservices
   - Integration with SDK's in the system
   - Translation of the system admin
